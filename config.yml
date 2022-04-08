@@ -1,7 +1,7 @@
 baseURL: 'https://www.gazab.se/'
 languageCode: 'en-us'
 title: "gazab's blog"
-theme: "PaperMod"
+theme: "papermod"
 pageinate: 5
 
 enableRobotsTXT: true
