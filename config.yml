@@ -1,0 +1,34 @@
+baseURL: 'https://www.gazab.se/'
+languageCode: 'en-us'
+title: "gazab's blog"
+theme: "PaperMod"
+pageinate: 5
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+ShowReadingTime: true
+ShowShareButtons: true
+ShowPostNavLinks: true
+ShowBreadCrumbs: true
+ShowCodeCopyButtons: true
+disableSpecial1stPost: false
+disableScrollToTop: false
+comments: true
+hidemeta: false
+hideSummary: false
+showtoc: false
+tocopen: false
+
+menu:
+  main:
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
