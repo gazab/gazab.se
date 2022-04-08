@@ -4,6 +4,8 @@ title: "gazab's blog"
 theme: "papermod"
 pageinate: 5
 
+googleAnalytics: G-1SCZ22BR83
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
